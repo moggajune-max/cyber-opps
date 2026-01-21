@@ -1,0 +1,12 @@
+{
+  "name": "Copy of Cyber-Ops: Tactical Intel",
+  "short_name": "CyberOps",
+  "description": "A high-octane tactical STEM shooter. Engage targets, decrypt battlefield intelligence, and master modern technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#06b6d4",
+  "background_color": "#020617"
+}
